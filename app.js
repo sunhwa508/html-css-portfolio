@@ -125,7 +125,7 @@ barba.init({
       beforeEnter() {
         animateSlides();
         window.location.reload(true);
-        logo.href = ".././index.html";
+        logo.href = "https://sunhwa508.github.io/netflix-webclone/";
       },
     },
     {
@@ -133,39 +133,18 @@ barba.init({
       beforeEnter() {
         animateSlides();
         window.location.reload(true);
-        logo.href = ".././index.html";
+        logo.href = "https://sunhwa508.github.io/-cloneweb/";
       },
     },
-    {
-      namespace: "trend",
-      beforeEnter() {
-        animateSlides();
-        window.location.reload(true);
-        logo.href = ".././index.html";
-      },
-    },
-    {
-      namespace: "rps",
-      beforeEnter() {
-        animateSlides();
-        window.location.reload(true);
-        logo.href = ".././index.html";
-      },
-    },
+
     {
       namespace: "todoList",
       beforeEnter() {
         animateSlides();
         window.location.reload(true);
-        logo.href = ".././index.html";
+        logo.href = "https://9jnn7.csb.app/";
       },
     },
-    // {
-    //   namespace: "fashion",
-    //   beforeEnter() {
-    //     logo.href = "../index.html";
-    //   },
-    // },
   ],
 
   transitions: [
